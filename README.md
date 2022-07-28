@@ -1,1 +1,19 @@
-# letBulochkin.github.io
+# **Hello!**
+
+Здесь будет какая-нибудь смешная картинка, когда я выясню, как сюда вставлять картинки.
+
+Например, такая:
+
+<p align="center"><img src="https://xkcd.ru/i/148_v1.png" style="display: block; " /></p>
+
+## About:
+
+Мне 23 года, я системный администратор в команде одного российского облачного провайдера. Увлекаюсь администрированием, программированием, фотографией, краеведением и путешествиями. В этом блоге оставляю заметки о системном администрировании и программировании, касающиеся тех тем, которые были мне непонятны - что-то вроде записной книжки.
+
+I am 23 years old system administrator, working as part of russian cloud provider. Live in Moscow. Administration, programming, photos and so on. Not much to talk about.
+
+## Contacts:
+
+* My e-mail: fir-anton@yandex.ru
+* My GitHub: https://github.com/let_bulochkin
+* Telegram-channel (RU): https://t.me/delicious_soup
