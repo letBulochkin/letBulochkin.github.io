@@ -52,5 +52,5 @@ OSD также не монолитна. Она состоит из журнал�
 
 ### Материалы для чтения:
 
-* https://www.backblaze.com/blog/object-file-block-storage-guide/
-* https://habr.com/ru/post/313644/
+* <https://www.backblaze.com/blog/object-file-block-storage-guide/>
+* <https://habr.com/ru/post/313644/>

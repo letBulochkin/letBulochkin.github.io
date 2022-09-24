@@ -4,7 +4,7 @@ _2022-09-09_
 
 ## Задача
 
-Пару дней назад передо мной встала следующая задача. Одна из систем хранения данных, используемых на работе, выдает отчет о latency входящих в неё дисков. Формат отчета следующий (часть строк я намеренно заменил):
+Одна из систем хранения данных, используемых на работе, выдаёт отчёт о latency входящих в неё дисков. Формат отчета следующий (часть строк я намеренно заменил):
 
 ```
 $ cat device_latency_meters.yml
@@ -136,13 +136,13 @@ ha304,/dev/sde,23616,69
 Возможно есть более оптимальное решение для задачи.
 
 ### Материалы для чтения:
-* https://www.grymoire.com/Unix/Awk.html - очень хороший туториал по AWK
-* https://regex101.com/ - интерактивный конструктор и дебаггер регекспов
-* https://askubuntu.com/questions/919449/awk-matching-empty-lines 
-* https://stackoverflow.com/questions/3469080/match-whitespace-but-not-newlines
-* https://www.gnu.org/software/gawk/manual/html_node/Concatenation.html
-* https://www.unix.com/shell-programming-and-scripting/156230-saving-awk-match.html
-* https://unix.stackexchange.com/questions/537908/how-to-append-line-which-matches-pattern-to-previous-line
-* https://stackoverflow.com/questions/17908555/printing-with-sed-or-awk-a-line-following-a-matching-pattern
-* https://stackoverflow.com/questions/15000530/find-a-string-and-append-it-to-next-line-using-awk
-* https://stackoverflow.com/questions/23478755/can-awk-print-lines-that-do-not-have-a-pattern
+* <https://www.grymoire.com/Unix/Awk.html> - очень хороший туториал по AWK
+* <https://regex101.com/> - интерактивный конструктор и дебаггер регекспов
+* <https://askubuntu.com/questions/919449/awk-matching-empty-lines>
+* <https://stackoverflow.com/questions/3469080/match-whitespace-but-not-newlines>
+* <https://www.gnu.org/software/gawk/manual/html_node/Concatenation.html>
+* <https://www.unix.com/shell-programming-and-scripting/156230-saving-awk-match.html>
+* <https://unix.stackexchange.com/questions/537908/how-to-append-line-which-matches-pattern-to-previous-line>
+* <https://stackoverflow.com/questions/17908555/printing-with-sed-or-awk-a-line-following-a-matching-pattern>
+* <https://stackoverflow.com/questions/15000530/find-a-string-and-append-it-to-next-line-using-awk>
+* <https://stackoverflow.com/questions/23478755/can-awk-print-lines-that-do-not-have-a-pattern>

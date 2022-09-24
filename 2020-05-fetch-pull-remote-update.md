@@ -33,6 +33,6 @@ ref: refs/heads/somebranch  # если мы в ветке somebranch
 
 Материалы для прочтения:
 
-* git-scm - Cсылки в Git: https://vk.cc/avXXcN
-* https://stackoverflow.com/questions/17712468/what-is-the-difference-between-git-remote-update-git-fetch-and-git-pull/17712553 
-* https://git-scm.com/book/en/v2/Git-Branching-Remote-Branches
+* git-scm - Cсылки в Git: <https://vk.cc/avXXcN>
+* <https://stackoverflow.com/questions/17712468/what-is-the-difference-between-git-remote-update-git-fetch-and-git-pull/17712553>
+* <https://git-scm.com/book/en/v2/Git-Branching-Remote-Branches>

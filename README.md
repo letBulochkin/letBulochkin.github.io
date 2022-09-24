@@ -10,8 +10,8 @@
 
 * [2022-09 Задача: форматирование отчета с помощью AWK](./2022-09-awk-formatting-task.md)
 * [2022-07 Weather Update ](./2022-07-weather-update.md)
-* [2020-05 Git: разница между fetch, pull и remote update ](./2020-05-fetch-pull-remote-update.md)
 * [2020-08 Ceph: краткое введение](./2020-08-ceph-introduction.md)
+* [2020-05 Git: разница между fetch, pull и remote update ](./2020-05-fetch-pull-remote-update.md)
 
 ## About:
 
@@ -29,9 +29,9 @@ This picture looks kinda useless nowadays, but here is the list of countries I v
 
 ## Contacts:
 
-* My e-mail: fir-anton@yandex.ru
-* My GitHub: https://github.com/let_bulochkin
-* Telegram-channel (RU): https://t.me/delicious_soup
+* My e-mail: <fir-anton@yandex.ru>
+* My GitHub: <https://github.com/let_bulochkin>
+* Telegram-channel (RU): <https://t.me/delicious_soup>
 
 ## Changelog:
 
