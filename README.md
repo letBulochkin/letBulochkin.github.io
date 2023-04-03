@@ -8,6 +8,7 @@
 
 ## Posts
 
+* [2023-02 Установка CentOS по сети: основные принципы](./2023-02-centos-net-install-basics.md)
 * [2022-09 Задача: форматирование отчета с помощью AWK](./2022-09-awk-formatting-task.md)
 * [2022-07 Weather Update ](./2022-07-weather-update.md)
 * [2020-08 Ceph: краткое введение](./2020-08-ceph-introduction.md)
